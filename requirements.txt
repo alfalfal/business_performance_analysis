@@ -1,0 +1,41 @@
+# Jupyter Environment
+jupyterlab==4.2.5
+
+
+# Numerical, Data manipulation, and analysis Libraries
+numpy==1.26.4
+pandas==2.2.3
+
+
+# Visualization
+matplotlib==3.9.2
+seaborn==0.13.2
+Pillow==10.4.0
+pydot==1.4.2
+
+
+# Machine Learning & Statistical Modeling
+scikit-learn==1.6.1
+scikit-surprise==1.1.4
+statsmodels==0.14.2
+
+# App
+streamlit
+
+
+# Large Language Model (LLM)
+
+langchain==1.1.0
+langchain-groq==1.1.0
+langchain-core==1.1.0
+
+# Database & Data Access
+SQLAlchemy==2.0.36
+psycopg2-binary==2.9.9
+
+
+# Utility / Environment Management
+python-dotenv==1.0.1
+
+# heatmap
+optbinning==0.21.0
